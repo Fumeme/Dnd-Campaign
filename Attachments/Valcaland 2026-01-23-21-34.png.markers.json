@@ -1,0 +1,159 @@
+{
+  "size": {
+    "w": 15024,
+    "h": 7384
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_of0uhm",
+      "name": "Cities",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_b3r9e6",
+      "x": 0.4436676741444791,
+      "y": 0.5462938916004664,
+      "layer": "default",
+      "link": "South Hampter",
+      "iconKey": "pinRed",
+      "tooltip": "South Hampter",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_afhu0y",
+      "x": 0.4436000985334603,
+      "y": 0.5315820294858395,
+      "layer": "default",
+      "link": "North Hampter",
+      "iconKey": "pinRed",
+      "tooltip": "North Hampter",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_57g8tu",
+      "x": 0.43495042032304304,
+      "y": 0.5495937485233732,
+      "layer": "default",
+      "link": "Miremouth",
+      "iconKey": "pinBlue",
+      "tooltip": "Miremouth",
+      "scaleLikeSticker": true
+    }
+  ],
+  "bases": [
+    "Attachments/Valcaland 2026-01-23-21-34.png"
+  ],
+  "overlays": [],
+  "activeBase": "Attachments/Valcaland 2026-01-23-21-34.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "pinSizeOverrides": {},
+  "deleted": [
+    {
+      "id": "undo_r79ge3",
+      "label": "Delete pin",
+      "createdAt": "2026-07-14T21:42:59.005Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_9s8sjz",
+          "x": 0.7757879656160458,
+          "y": 0.5129368279569892,
+          "layer": "layer_of0uhm",
+          "link": "North Hampter",
+          "iconKey": "pinRed",
+          "tooltip": "North Hampter",
+          "anchorSpace": "viewport",
+          "hudX": 541.5,
+          "hudY": 286.21875,
+          "hudModeX": "right",
+          "hudModeY": "bottom",
+          "hudLastWidth": 698,
+          "hudLastHeight": 558
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_rwlr02",
+      "label": "Delete pin",
+      "createdAt": "2026-07-14T21:42:57.617Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_owsw9t",
+          "x": 0.7757879656160458,
+          "y": 0.6661626344086021,
+          "layer": "layer_of0uhm",
+          "link": "South Hampter",
+          "iconKey": "pinRed",
+          "tooltip": "South Hampter",
+          "anchorSpace": "viewport",
+          "hudX": 541.5,
+          "hudY": 371.71875,
+          "hudModeX": "right",
+          "hudModeY": "bottom",
+          "hudLastWidth": 698,
+          "hudLastHeight": 558
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_wiqup3",
+      "label": "Delete pin",
+      "createdAt": "2026-07-14T21:42:56.009Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_x3p9ch",
+          "x": 0.6253581661891118,
+          "y": 0.697524641577061,
+          "layer": "layer_of0uhm",
+          "link": "Miremouth",
+          "iconKey": "pinRed",
+          "tooltip": "Miremouth",
+          "anchorSpace": "viewport",
+          "hudX": 436.5,
+          "hudY": 389.21875,
+          "hudModeX": "right",
+          "hudModeY": "bottom",
+          "hudLastWidth": 698,
+          "hudLastHeight": 558,
+          "scaleLikeSticker": true,
+          "minZoom": 0.5,
+          "maxZoom": 1.5
+        },
+        "index": 2
+      }
+    }
+  ]
+}

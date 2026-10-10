@@ -1,0 +1,1 @@
+ Solan’s creation (the physical body) is a prison designed to suppress Luna’s gift. We are not humans; we are captured stars wrapped in mud.

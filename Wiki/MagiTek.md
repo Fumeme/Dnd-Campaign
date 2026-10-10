@@ -1,0 +1,1 @@
+Created by [[Nikola Tesla]], MagiTek is a universal and versatile technology of harnessing the magical energy within crystals. Effectively serving as a real world mirror to electricity.

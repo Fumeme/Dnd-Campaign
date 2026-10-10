@@ -1,0 +1,1 @@
+[[Wiki/Unbound]] are the main focus of this arc. Aim to "finish what Luna started" by using the fragment of Luna to imbue the planet with the quantity of mana that "luna intended"

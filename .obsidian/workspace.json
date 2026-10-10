@@ -1,0 +1,402 @@
+{
+  "main": {
+    "id": "f499051f6ba0fc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "673736ee5d96aff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a94e056a8a26cb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e2d87d3890adf3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miremouth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miremouth"
+            }
+          },
+          {
+            "id": "ca6889afb95200b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep/Episode 0-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Episode 0-1"
+            }
+          },
+          {
+            "id": "aae55a2ee1ee597e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "43479ef5b150d33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/--The Campaign--.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--The Campaign--"
+            }
+          },
+          {
+            "id": "4ec69896d06e1dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/--The Campaign--.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--The Campaign--"
+            }
+          },
+          {
+            "id": "ca5c0a5b2e1ca910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep/Episode 0-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Episode 0-1"
+            }
+          },
+          {
+            "id": "f1b112180024752b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f58ed8c929719cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3e07e08a69fb03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3ec7a440e1c546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8d0af3da16e2777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54c56e2f5aacf11d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "c772120f07ea3ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "00081ffecf58d780",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "3e7ac5dfafb5c892",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/VAS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for VAS"
+            }
+          },
+          {
+            "id": "587438e65c69ae3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "2dd5596b1dfced4d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "377da9316315476a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prep/Episode 0-1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7042758693e56c81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6bccafcdbf92fc86",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "ee99cb0d94515c55",
+        "type": "tabs",
+        "dimension": 47.286821705426355,
+        "children": [
+          {
+            "id": "c295807ebe5eb1cc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0b5a791af899",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 5,
+                    "month": 4,
+                    "year": 878
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 4,
+                    "year": 878
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_d8593b7aeae8",
+                "child": "ID_789b3b88690a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c9d93a30116f238",
+        "type": "tabs",
+        "dimension": 19.379844961240313,
+        "children": [
+          {
+            "id": "ba94787c58f1458f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0b5a791af899",
+                "id": "ID_789b3b88690a",
+                "parent": "ID_d8593b7aeae8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "df3ec7a440e1c546",
+  "lastOpenFiles": [
+    "Prep/Episode 2.md",
+    "Prep/Episode 0-1.md",
+    "Prep/Player Characters.md",
+    "Templates/Session note.md",
+    "Miremouth.md",
+    "Wiki/--The Campaign--.md",
+    "Map.md",
+    "Wiki/VAS Trade Company Arc.md",
+    "Wiki/VAS.md",
+    "Wiki/Haunted Theatre.md",
+    "Wiki/Escapists.md",
+    "Wiki/Children of the Dream.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Holy State of Palia.md",
+    "Adventures/Haunted Marionette Theater.md",
+    "Adventures/Necrotic Blight Dragon.md",
+    "Adventures/Magi-specter haunting.md",
+    "Adventures/Cheese Wizard vs Lactomancer.md",
+    "Red-15-B.md",
+    "Attachments/Brutus.png",
+    "Attachments/rhazmor_final.png",
+    "Attachments/Valcaland 2026-01-23-21-34.png",
+    "Shendo.md",
+    "Wiki/MagiTek.md",
+    "Adventures",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wireless-signal.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wifi.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/water-drop.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/virgo.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/vine-whip.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/vial.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/vest.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
+    "ZoomMap/SVGs/rpg-awesome-raw-master",
+    "ZoomMap/SVGs/rpg-awesome.zip",
+    "ZoomMap/SVGs",
+    "ZoomMap",
+    "Internal Mana Decay.md",
+    "The Blak Hand.md",
+    "Black-73-C.md",
+    "copilot/copilot-conversations/i_need_help_writing_a_blurb_about_this_country_called@20260701_232542.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "Untitled.canvas"
+  ]
+}
