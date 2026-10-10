@@ -1,0 +1,7 @@
+# Ignore Obsidian workspace layout and cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Ignore plugin runtime logs/caches if they change constantly
+.smart-env/
