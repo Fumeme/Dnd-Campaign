@@ -5,7 +5,7 @@ BrutusAlignment: IDK man
 ---
 reminder to add in game date and time here
 ## Recap + Intro
--  weather: clear skies
+-  weather: clear skies pog
 - 
 #### **starts on
 ## Character Notes
