@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prep/Episode 2.md",
+                "file": "Prep/Episode 0-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Episode 2"
+              "title": "Episode 0-1"
             }
           },
           {
@@ -349,13 +349,14 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "6bccafcdbf92fc86",
+  "active": "ca6889afb95200b5",
   "lastOpenFiles": [
+    "Wiki/Rover.md",
+    "Prep/Episode 2.md",
     "New Text Document.txt",
     "README.md",
     "Prep/Episode 0-1.md",
     "git-dnd",
-    "Prep/Episode 2.md",
     "Prep/Player Characters.md",
     "Templates/Session note.md",
     "Miremouth.md",
@@ -392,7 +393,6 @@
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
     "ZoomMap/SVGs/rpg-awesome-raw-master",
     "ZoomMap/SVGs/rpg-awesome.zip",
-    "ZoomMap/SVGs",
     "Internal Mana Decay.md",
     "The Blak Hand.md",
     "Black-73-C.md",
