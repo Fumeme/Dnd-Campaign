@@ -20,58 +20,6 @@
             }
           },
           {
-            "id": "e2d87d3890adf3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miremouth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miremouth"
-            }
-          },
-          {
-            "id": "ca6889afb95200b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prep/Episode 0-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Episode 0-1"
-            }
-          },
-          {
-            "id": "aae55a2ee1ee597e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          },
-          {
-            "id": "43479ef5b150d33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/--The Campaign--.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "--The Campaign--"
-            }
-          },
-          {
             "id": "4ec69896d06e1dac",
             "type": "leaf",
             "state": {
@@ -97,16 +45,6 @@
               },
               "icon": "lucide-file",
               "title": "Episode 0-1"
-            }
-          },
-          {
-            "id": "f1b112180024752b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
             }
           }
         ],
@@ -186,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prep/Episode 2.md",
+                "file": "Prep/Episode 0-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ee99cb0d94515c55",
@@ -349,39 +287,43 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "ca6889afb95200b5",
+  "active": "ca5c0a5b2e1ca910",
   "lastOpenFiles": [
-    "Wiki/Rover.md",
-    "Prep/Episode 2.md",
-    "New Text Document.txt",
-    "README.md",
+    "Wiki/--The Campaign--.md",
     "Prep/Episode 0-1.md",
+    "Shendo.md",
+    "South Hampter.md",
+    "Map.md",
+    "Internal Mana Decay.md",
+    "Wiki/Luminol.md",
+    "Miremouth.md",
+    "Red-15-B.md",
+    "The Blak Hand.md",
+    "Wiki/Rover.md",
+    "Wiki/Scar of Mia Arc.md",
+    "Wiki/Liberators.md",
+    "Wiki/MagiTek.md",
+    "Wiki/VAS.md",
+    "Wiki/Luminux.md",
+    "Wiki/Solan Cult.md",
+    "Adventures/Haunted Theatre.md",
+    "README.md",
+    "Black-73-C.md",
+    "Prep/Episode 2.md",
+    "Templates/Session note.md",
+    "Wiki/Children of the Dream.md",
+    "Wiki/VAS Trade Company Arc.md",
+    "New Text Document.txt",
     "git-dnd",
     "Prep/Player Characters.md",
-    "Templates/Session note.md",
-    "Miremouth.md",
-    "Wiki/--The Campaign--.md",
-    "Map.md",
-    "Wiki/VAS Trade Company Arc.md",
-    "Wiki/VAS.md",
-    "Wiki/Haunted Theatre.md",
     "Wiki/Escapists.md",
-    "Wiki/Children of the Dream.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Holy State of Palia.md",
-    "Adventures/Haunted Marionette Theater.md",
-    "Adventures/Necrotic Blight Dragon.md",
-    "Adventures/Magi-specter haunting.md",
-    "Adventures/Cheese Wizard vs Lactomancer.md",
-    "Red-15-B.md",
     "Attachments/Brutus.png",
     "Attachments/rhazmor_final.png",
     "Attachments/Valcaland 2026-01-23-21-34.png",
-    "Shendo.md",
-    "Wiki/MagiTek.md",
     "Adventures",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wireless-signal.svg",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wifi.svg",
@@ -393,10 +335,6 @@
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
     "ZoomMap/SVGs/rpg-awesome-raw-master",
     "ZoomMap/SVGs/rpg-awesome.zip",
-    "Internal Mana Decay.md",
-    "The Blak Hand.md",
-    "Black-73-C.md",
-    "copilot/copilot-conversations/i_need_help_writing_a_blurb_about_this_country_called@20260701_232542.md",
     "Untitled.canvas"
   ]
 }

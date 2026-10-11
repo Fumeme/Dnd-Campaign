@@ -1,2 +1,2 @@
 [[Wiki/Magic Nullification Arc]]
-goal is to remove magic from the world by any means. uses VAS to supply magic enhancing [[Wiki/Luminux]] to recently convert used mana into Void Energy. Void energy which is used for the anti magic generator itself
+goal is to remove magic from the world by any means. uses VAS to supply magic enhancing [[Wiki/Luminol|Luminol]] to recently convert used mana into Void Energy. Void energy which is used for the anti magic generator itself

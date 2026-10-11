@@ -3,7 +3,6 @@ RhazmorAlignment: IDK man
 HeataAlignment: IDK man
 BrutusAlignment: IDK man
 ---
-reminder to add in game date and time here
 ## Recap + Intro
 -  weather: shortly after it rained
 - [[Prep/Player Characters#Heata|Heata]] arrived to [[Miremouth]] and sought to make some quick money
